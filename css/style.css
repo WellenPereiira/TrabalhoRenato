@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(55, 155, 122);
+    font-size: 20px;
+}
+.botao{
+    background-color: #c71585;
+    border-radius: 10px;
+    color: white;
+    width: 20%; 
+    height: 20px
+}
+.title{
+    margin-left: 20px;
+}
+.tela1{
+    font-size: 22px;
+}
+.form-control{
+    border-radius: 8px;
+    width: 30%;
+    height: 20px;
+}
+.container{
+    text-align: center;
+}
